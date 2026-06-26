@@ -14,9 +14,9 @@
 
 - 프로젝트명: 센서 융합 기반 반자율 주행 시스템
 - 팀명: Unlucky
-- 수행 시기: 2026년 겨울
+- 수행 시기: 2026년 01월 26일 ~ 2026년 2월 6일
 - 수행 과정: Semi-Auto Arduino Bootcamp
-- 발표 행사: 2026 제1회 Semi-COSS 페스티벌
+- 발표 행사: 한남대학교 2026 제1회 Semi-COSS 페스티벌
 - 프로젝트 형태: 2인 팀 프로젝트
 - 주요 분야: Embedded System, Sensor Fusion, Bluetooth Communication, Mobile Application
 
